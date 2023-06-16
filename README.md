@@ -1,6 +1,6 @@
 # SortedStack
 
-SortedStack is a program I first created for Project 4 as SortedLinkedList.  The specifications then changed and the program was renamed to SortedStack.
+SortedStack is a program I first created for Project 4 as SortedLinkedList.  Later, the specifications were changed for Project 5 and the program was renamed to SortedStack.
 
 ## TEST SMALL HEADING
 
