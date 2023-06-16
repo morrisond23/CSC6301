@@ -1,6 +1,6 @@
 # Project 6
 
-This repository contains the work submitted as Project 6 in the class CSC6301.  This includes the .java files for projects 4 and 5.
+This repository contains the work submitted as Project 6 for the class CSC6301.  This includes the .java files for projects 4 and 5.
 
 I debated how to best show both projects, as Project 5 is based on Project 4.  I originally tried storing both projects as the history of a single .java file that changed names, but I didn't like how it wasn't displayed obviously that I had uploaded both projects.  I then decided to contain the two projects in their own individual folders.
 
