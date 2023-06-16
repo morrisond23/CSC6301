@@ -1,6 +1,6 @@
-# SortedStack
+# OrderedStack
 
-*SortedStack* is a program I first created for Project 4 as *SortedLinkedList*.  Later, the specifications were changed for Project 5 and the program was renamed to *SortedStack*.
+*OrderedStack* is a program I first created for Project 4 as *OrderedLinkedList*.  Later, the specifications were changed for Project 5 and the program was renamed to *OrderedStack*.
 
 This program was written for my CSC6301 class while working towards my Masters in Computer Science.
 
