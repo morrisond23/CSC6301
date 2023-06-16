@@ -6,11 +6,11 @@ This simple program was written for my CSC6301 class while working towards my Ma
 
 ## Project 4
 
-Write about project 4
+Project 4 contains the *OrderedLinkedList* program which takes a list of integers from a Scanner, sort them in ascending order, then stores them in a Linked List.
 
 ## Project 5
 
-Write about project 5
+Project 5 contains the program *OrderedStack* based on *OrderedLinkedList* from Project 4 but instead of storing the result in a Linked List, the result is stored in a Stack.
 
 ## How to help
 
