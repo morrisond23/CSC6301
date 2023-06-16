@@ -2,6 +2,8 @@
 
 *SortedStack* is a program I first created for Project 4 as *SortedLinkedList*.  Later, the specifications were changed for Project 5 and the program was renamed to *SortedStack*.
 
+This program was written as part of my CSC6301 class towards my Masters in Computer Science.
+
 ## TEST SMALL HEADING
 
 Text
