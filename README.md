@@ -14,7 +14,7 @@ Project 5 contains the program *OrderedStack* based on *OrderedLinkedList* from 
 
 ## How to help
 
-Reach out to my Merrimack email, which I will not be posting here for security reasons.
+Reach out to my Merrimack email, which I will **not** be posting here for privacy reasons.
 
 ## Who maintains this project?
 
