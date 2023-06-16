@@ -1,12 +1,16 @@
-# OrderedStack
+# Project 6
 
 *OrderedStack* is a program I first created for Project 4 as *OrderedLinkedList*.  Later, the specifications were changed for Project 5 and the program was renamed to *OrderedStack*.
 
 This simple program was written for my CSC6301 class while working towards my Masters in Computer Science.
 
-## What it does
+## Project 4
 
-Text
+Write about project 4
+
+## Project 5
+
+Write about project 5
 
 ## How to help
 
