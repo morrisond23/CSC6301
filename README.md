@@ -15,11 +15,3 @@ text here
 ## Who maintains this project?
 
 text here
-
-## Heading 3
-
-text here
-
-## Heading 4
-
-text here
