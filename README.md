@@ -10,8 +10,8 @@ Text
 
 ## How to help
 
-text here
+Reach out to my Merrimack email, which I will not be posting here for security reasons.
 
 ## Who maintains this project?
 
-text here
+Derek Morrison, Masters of Computer Science student at Merrimack College
