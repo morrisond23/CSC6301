@@ -1,8 +1,6 @@
-TEST README FILE
+# SortedStack
 
-# TEST BIG HEADING
-
-Text
+SortedStack is a program I first created for Project 4 as SortedLinkedList.  The specifications then changed and the program was renamed to SortedStack.
 
 ## TEST SMALL HEADING
 
