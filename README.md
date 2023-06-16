@@ -1,8 +1,8 @@
 # Project 6
 
-*OrderedStack* is a program I first created for Project 4 as *OrderedLinkedList*.  Later, the specifications were changed for Project 5 and the program was renamed to *OrderedStack*.
+This repository contains the work submitted as Project 6 in the class CSC6301.  This includes the submitted work for projects 4 and 5.
 
-This simple program was written for my CSC6301 class while working towards my Masters in Computer Science.
+I debated how to best show both programs, as Project 5 is based on Project 4.  I originally tried storing both projects as the history of a single file, but I didn't like how it wasn't straightforward that I had submitted both files.  I then decided to contain the two projects in their own individual folders.
 
 ## Project 4
 
