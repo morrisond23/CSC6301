@@ -1,23 +1,23 @@
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.LinkedList;
 import java.util.Scanner;
+import java.util.Stack;
 
 /**
- * Class to take a list of integers from input, sort them, and store them into a linked list using the Java Collections
- * Framework.  Takes a scanned input, stores in an ArrayList, sorts, then copies contents into a LinkedList.
+ * Class to take a list of integers from input, sort them, and store them into a Stack using the Java Collections
+ * Framework.  Takes a scanned input, stores in an ArrayList, sorts, then copies contents into a Stack.
  * @author Derek Morrison
- * @version 1.0
- * @since 6/2/23
+ * @version 2.0
+ * @since 6/6/23
  */
 
-public class OrderedLinkedList {
+public class OrderedStack {
     /**
      * Main method of the class, used for demonstration purposes.  Takes a list of integers from input and stores them
-     * into an ArrayList, sorts the ArrayList, then copies contents of ArrayList into a LinkedList.  Finally, prints
-     * contents of LinkedList.
+     * into an ArrayList, sorts the ArrayList, then copies contents of the ArrayList into a Stack called sortedStack.
+     * Finally, prints contents of sortedStack to the screen.
      * @param args default parameter for a main - not used
-     * @since 6/2/23
+     * @since 6/6/23
      */
 
     public static void main(String[] args) {
@@ -39,11 +39,14 @@ public class OrderedLinkedList {
         //sort startingArray
         Collections.sort(startingArray);
 
-        //create linkedList and fill it with startingArray
-        LinkedList<Integer> linkedList = new LinkedList<>(startingArray);
+        //create sortedStack
+        Stack<Integer> sortedStack = new Stack<>();
 
-        //print out linkedList
-        System.out.println("Here are the contents of the linked list:");
-        System.out.println(linkedList);
+        //fill sortedStack with sorted integers from startingArray
+        sortedStack.addAll(startingArray);
+
+        //print out sortedStack
+        System.out.println("Here are the contents of the Stack:");
+        System.out.println(sortedStack);
     }
 }
