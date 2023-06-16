@@ -12,7 +12,11 @@ Project 4 contains the *OrderedLinkedList* program which takes a list of integer
 
 Project 5 contains the *OrderedStack* program based on *OrderedLinkedList* from Project 4 but instead of storing the result in a Linked List, the result is stored in a Stack.  This Stack is then displayed to the user.
 
-## How to help
+## Installation
+
+These projects only require a basic Java installation to run.  There are no additional dependencies.
+
+## How to contribute
 
 Reach out to my Merrimack student email, which I will **not** be posting here for privacy reasons.
 
