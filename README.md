@@ -24,6 +24,12 @@ Upon running the program, user is prompted to enter a list of integers followed 
 Please input integers separated by spaces, enter a non-integer and Enter to finish:
 ```
 
+The program then sorts the list of integers and stores them in either a Linked List (Project 4) or Stack (Project 5).  The program displays the sorted contents of the Linked List/Stack.
+
+```bash
+Here are the contents of the Stack:
+```
+
 ## How to contribute
 
 Reach out to my Merrimack student email, which I will **not** be posting here for privacy reasons.
