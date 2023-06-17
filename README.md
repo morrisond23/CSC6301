@@ -16,6 +16,14 @@ Project 5 contains the *OrderedStack* program based on *OrderedLinkedList* from 
 
 These projects only require a basic Java installation to run.  There are no additional dependencies.
 
+## Usage
+
+User is prompted to enter a list of integers followed by a non-integer and Enter.
+
+```bash
+Please input integers separated by spaces, enter a non-integer and Enter to finish:
+```
+
 ## How to contribute
 
 Reach out to my Merrimack student email, which I will **not** be posting here for privacy reasons.
