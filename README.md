@@ -18,7 +18,7 @@ These projects only require a basic Java installation to run.  There are no addi
 
 ## Usage
 
-User is prompted to enter a list of integers followed by a non-integer and Enter.
+Upon running the program, user is prompted to enter a list of integers followed by a non-integer and Enter.
 
 ```bash
 Please input integers separated by spaces, enter a non-integer and Enter to finish:
