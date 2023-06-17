@@ -6,7 +6,7 @@ I debated how to best show both projects, as Project 5 is based on Project 4.  I
 
 ## Project 4
 
-Project 4 contains the *OrderedLinkedList* program which takes a list of integers from a Scanner, sort them in ascending order, then stores them in a Linked List.  This Linked List is then displayed to the user.
+Project 4 contains the *OrderedLinkedList* program which takes a list of integers from a Scanner, sorts them in ascending order, then stores them in a Linked List.  This Linked List is then displayed to the user.
 
 ## Project 5
 
